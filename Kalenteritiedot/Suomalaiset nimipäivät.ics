@@ -1,0 +1,545 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//WebCal.Guru//NONSGML WebCal.Guru//FI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:FALSE
+NAME:Suomalaiset nimipäivät
+X-WR-CALNAME:Suomalaiset nimipäivät
+SOURCE;VALUE=URI:https://www.webcal.guru/fi-FI/lataa_kalenteri?calendar_in
+ stance_id=263
+URL;VALUE=URI:/fi-FI/tapahtumalista/name_days_finland
+UID:a61fb18c-3604-b7fe-51cd-0a7a75e65092
+X-WR-RELCALID:a61fb18c-3604-b7fe-51cd-0a7a75e65092
+DESCRIPTION;LANGUAGE=fi-FI:Viralliset Almanakkatoimiston julkaisemat suoma
+ laiset nimipäivät. Tekijänoikeussyistä tätä kalenteria näytetään vain 2 vi
+ ikkoa kerrallaan.
+X-WR-CALDESC;LANGUAGE=fi-FI:Viralliset Almanakkatoimiston julkaisemat suom
+ alaiset nimipäivät. Tekijänoikeussyistä tätä kalenteria näytetään vain 2 v
+ iikkoa kerrallaan.
+X-WR-TIMEZONE:Etc/UTC
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL;VALUE=DURATION:P1D
+X-OWNER;VALUE=TEXT;CN=WebCal.Guru:mailto:guru@webcal.guru
+COLOR:#eeeeee
+X-APPLE-CALENDAR-COLOR:#eeeeee
+X-OUTLOOK-COLOR:#eeeeee
+X-FUNAMBOL-COLOR:#eeeeee
+X-LOTUS-CHARSET:UTF-8
+BEGIN:VEVENT
+UID:27256424-9707-4574-8342-d290bbe99579
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY;LANGUAGE=fi:Nyyrikki
+DESCRIPTION;LANGUAGE=fi:Nyyrikki on suomalainen miehen etunimi.\n\nhttps:/
+ /fi.wikipedia.org/wiki/Nyyrikki_(nimi)\n\nNimipäivät © Helsingin yliopisto
+ \n\nLisätietoja\nhttps://almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia 
+ content re-released under CC-BY-SA.\nhttps://creativecommons.org/licenses/
+ by-sa/3.0/\n\nTämän kalenterin tarjoaa WebCal.Guru https://www.webcal.guru
+ /.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:72376969-efd0-ad18-749e-6ebd3c7f98e0
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY;LANGUAGE=fi:Kari\, Karri
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 39 964 ihmistä.\n- Kari: 38 411\n- Karri: 
+ 1 553\n\nKari on muun muassa:kari\, pieni saari tai vedenalainen\, laivali
+ ikenteelle vaarallinen matalikko tai kivi↵Kari\, suomalainen miehen etunim
+ i\, myös norjalainen naisen etunimi↵nimimerkkinä pilapiirtäjä Kari eli Kar
+ i Suomalainen↵KARI\, Etelä-Korean avaruusjärjestö↵Kari\, yksi Saturnuksen 
+ kuista↵Kari\, Kari Asikaisen suunnittelema julkiskalustesarja↵Kari (1903)\
+ , japanilainen 1903–1922 käytössä ollut torpedovene↵Kari (1937)\, japanila
+ inen 1937–1945 käytössä ollut torpedovene↵Kari Lake\,\, yhdysvaltalinen po
+ liitikko\n\nhttps://fi.wikipedia.org/wiki/Kari\n\nKarri on suomalainen mie
+ hen etunimi. Nimi Karri on Kari-nimen muunnelma ja siten lyhennös nimestä 
+ Makarios. Digi- ja väestötietoviraston tietojen mukaan vuoden 2019 loppuun
+  mennessä Karri-nimen on saanut 1 873 henkilöä.\n\nhttps://fi.wikipedia.or
+ g/wiki/Karri\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps://a
+ lmanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia content re-released under 
+ CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nTämän kalent
+ erin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWed\,
+  14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb7263e-c0bb-42f5-d8b9-eff3e2253771
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY;LANGUAGE=fi:Toini
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 3 153 ihmistä.\n- Toini: 3 153\n\nToini on
+  naisen etunimi. Nimi on todennäköisesti lyhentymä ranskalaisesta naisenni
+ mestä Antoinette\, joka taas on nimen Antoine naispuolinen vastine.\n\nhtt
+ ps://fi.wikipedia.org/wiki/Toini\n\nNimipäivät © Helsingin yliopisto\n\nLi
+ sätietoja\nhttps://almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia conten
+ t re-released under CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/
+ 3.0/\n\nTämän kalenterin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\n
+ Sisältö luotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:312c75f2-29b1-bc1c-6529-de894bff5d07
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY;LANGUAGE=fi:Nuutti
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 2 235 ihmistä.\n- Nuutti: 2 235\n\nNuutti 
+ on suomalainen miehen etunimi. Nuutti on suomalainen muunnos pohjoismaises
+ ta nimestä Knut\, jonka merkitys on 'ylpeä'\, 'reipas'.\n\nhttps://fi.wiki
+ pedia.org/wiki/Nuutti\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja\n
+ https://almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia content re-releas
+ ed under CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nTäm
+ än kalenterin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\nSisältö luo
+ tu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a00fdd84-6afd-ec81-82dc-4cf43ae6cc7c
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY;LANGUAGE=fi:Sakari\, Saku\, Sasu
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 8 716 ihmistä.\n- Sakari: 3 829\n- Saku: 3
+  946\n- Sasu: 941\n\nSakari on suomalainen miehen etunimi. Nimi polveutuu 
+ hepreankielisestä nimestä Zechariah .\, ja nimi eri muunnelmineen on tullu
+ t laajalti tunnetuksi Raamatusta. Uudessa testamentissa mainitaan Sakarias
+  Johannes Kastajan isänä.. Nimi muistuttaa myös Vanhan testamentin profeet
+ an nimeä Sakarja\, joka kuitenkin on eri alkuperää ja merkitsee "maksaa pa
+ lkka."\n\nhttps://fi.wikipedia.org/wiki/Sakari\n\nSaku on suomalainen mieh
+ en etunimi. Vuoden 2019 loppuun mennessä nimen Saku on saanut 4524 miestä 
+ ja muutama nainen.\n\nhttps://fi.wikipedia.org/wiki/Saku_(nimi)\n\nSasu on
+  suomalainen miehen etunimi\, alun perin Sakari-nimen kansan­omainen puhut
+ telu­muoto.\n\nhttps://fi.wikipedia.org/wiki/Sasu\n\nNimipäivät © Helsingi
+ n yliopisto\n\nLisätietoja\nhttps://almanakka.helsinki.fi/fi/nimipaivat\n\
+ nWikipedia content re-released under CC-BY-SA.\nhttps://creativecommons.or
+ g/licenses/by-sa/3.0/\n\nTämän kalenterin tarjoaa WebCal.Guru https://www.
+ webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaus
+ tunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fe2cf5b2-1a73-0acf-cf52-cd498e8a334a
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY;LANGUAGE=fi:Solja
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 206 ihmistä.\n- Solja: 206\n\nSolja on suo
+ malainen sukunimi tai naisen etunimi\, joka otettiin nimipäiväkalenteriin 
+ vuonna 1950 tammikuun 15. päivälle. Digi- ja väestötietoviraston tietojen 
+ mukaan Suomessa on ollut kirjoilla vuoden 2019 loppuun mennessä noin 270 h
+ enkilöä\, joiden etunimi on Solja. Suosituimmillaan nimi on ollut 1960– ja
+  1970-luvuilla. Sukunimenä Solja on 164 henkilöllä.\n\nhttps://fi.wikipedi
+ a.org/wiki/Solja\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps
+ ://almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia content re-released un
+ der CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nTämän ka
+ lenterin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nW
+ ed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0faa18-f549-20f7-25d3-c76aaa552903
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY;LANGUAGE=fi:Ilmari\, Ilmo
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 3 039 ihmistä.\n- Ilmari: 2 252\n- Ilmo: 7
+ 87\n\nIlmari on miehen nimi\, ja nimipäivä on suomalaisessa kalenterissa 1
+ 6. tammikuuta\, vuodesta 1908 alkaen.\n\nhttps://fi.wikipedia.org/wiki/Ilm
+ ari\n\nIlmo on suomalainen etunimi\, joka nykyisin on lähinnä miehen nimi 
+ mutta jota on aikojen saatossa annettu myös naisille. Nimi on mahdollisest
+ i lyhentymä nimestä Ilmari\, mutta voi perustua myös karjalaisissa murteis
+ sa esiintyvään ihmistä tarkoittavaan sanaan ilminen. Ilmon nimipäivä on 16
+ . tammikuuta\, kuten Ilmarilla.\n\nhttps://fi.wikipedia.org/wiki/Ilmo\n\nN
+ imipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps://almanakka.helsinki
+ .fi/fi/nimipaivat\n\nWikipedia content re-released under CC-BY-SA.\nhttps:
+ //creativecommons.org/licenses/by-sa/3.0/\n\nTämän kalenterin tarjoaa WebC
+ al.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:0
+ 3:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:625175e8-f259-c978-c23d-feb7f7fdf39f
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY;LANGUAGE=fi:Anton\, Antto\, Anttoni\, Toni
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 23 976 ihmistä.\n- Anton: 6 541\n- Antto: 
+ 420\n- Anttoni: 331\n- Toni: 16 684\n\nAnton on miehen etunimi\, lyhentymä
+  latinalaisesta nimestä Antonius. Antonin muunnelmia ovat Toni\, Tony\, An
+ tton ja Anttoni.\n\nhttps://fi.wikipedia.org/wiki/Anton\n\nAntto on suomal
+ ainen miehen etunimi. Vuoden 2019 loppuun mennessä nimi Antto on annettu 7
+ 20 henkilölle.\n\nhttps://fi.wikipedia.org/wiki/Antto\n\nAntton on suomala
+ inen miehen etunimi. Antton on suomalainen muunnos latinalaista alkuperää 
+ olevasta Anton-nimestä.\n\nhttps://fi.wikipedia.org/wiki/Anttoni\n\nToni o
+ n etunimi\, latinalaisen Antonius-nimen lyhentymä. Suomessa se on miehen\,
+  englanninkielisissä maissa sen sijaan naisen nimi ja sellaisena lyhentymä
+  Antoniasta. Tonin muunnelmia ovat Tony ja Anttoni.\n\nhttps://fi.wikipedi
+ a.org/wiki/Toni\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps:
+ //almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia content re-released und
+ er CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nTämän kal
+ enterin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWe
+ d\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7665fe82-63c6-0716-69dc-4dfb7d1bbc68
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY;LANGUAGE=fi:Laura
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 23 258 ihmistä.\n- Laura: 23 258\n\nLaura 
+ on monissa maissa yleinen naisen etunimi. Nimipäivä suomalaisessa ja Suome
+ n ruotsinkielisessä kalenterissa on 18. tammikuuta. Suomalaiseen almanakka
+ an se on otettu vuonna 1908. Ruotsissa Laura pääsi almanakkaan 1901. Suome
+ ssa Laura on Laurin sisarnimi.\n\nhttps://fi.wikipedia.org/wiki/Laura_(nim
+ i)\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps://almanakka.h
+ elsinki.fi/fi/nimipaivat\n\nWikipedia content re-released under CC-BY-SA.\
+ nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nTämän kalenterin tarjo
+ aa WebCal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 20
+ 26 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fd557368-b72f-2cf7-b547-acc69e109ace
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY;LANGUAGE=fi:Heikki\, Henna\, Henni\, Henri\, Henriikka\, Henrik\, 
+ Henrikki
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 56 825 ihmistä.\n- Heikki: 27 278\n- Henna
+ : 10 340\n- Henni: 1 186\n- Henri: 12 717\n- Henriikka: 876\n- Henrik: 4 2
+ 77\n- Henrikki: 151\n\nHeikki on suomalainen miehen etunimi\, Henrik-nimen
+  suomenkielinen muunnelma. Suomalaisessa kalenterissa Heikin nimipäivä on 
+ 19. tammikuuta\, Pyhän Henrikin muistopäivänä. Ortodoksisessa kalenterissa
+  nimi Heikki esiintyy useilla vuoden päivillä.\n\nhttps://fi.wikipedia.org
+ /wiki/Heikki\n\nHenna on suomalainen naisen etunimi.\n\nhttps://fi.wikiped
+ ia.org/wiki/Henna_(nimi)\n\nHenni on suomalainen naisen etunimi\, joka on 
+ ollut almanakassa vuodesta 1973.\n\nhttps://fi.wikipedia.org/wiki/Henni\n\
+ nHenri on miehen etunimi. Henri on alkujaan ranskalainen\, nykyään myös po
+ hjoismaissa yleinen muoto muinaissaksan nimistä Haimrich ja Heinrich. Nime
+ stä on paljon muuntumia ja muotoja eri kielissä\, esimerkiksi Ruotsin Henr
+ y\, Englannin Harry\, Ruotsin Henrik\, Tanskan Hendrik\, Saksan Heinz ja I
+ talian Enrico. Ranskan Henri-nimisistä kuninkaista käytetään Suomessa ylee
+ nsä nimeä Henrik.\n\nhttps://fi.wikipedia.org/wiki/Henri\n\nHenriikka ja H
+ enrika ovat naisen etunimiä\, Henrik-nimen naispuolisia vastineita. Henrii
+ kka on nimen suomenkielinen muoto\, useissa muissa kielissä on käytössä mu
+ oto Henrika tai Henrica. Henriikan nimipäivä on Suomessa suomenkielisessä 
+ kalenterissa 19. tammikuuta samoin kuin Henrikinkin\, ja sama päivä on myö
+ s suomenruotsalaisessa kalenterissa Henrikan nimipäivä. Ennen vuotta 2010 
+ Henriikan nimipäivä oli päivää myöhemmin\, 20. tammikuuta.\n\nhttps://fi.w
+ ikipedia.org/wiki/Henriikka\n\nHenrik on miehen etunimi. Henrikin nimipäiv
+ ä on 19. tammikuuta\, piispa Henrikin muistopäivänä. Suomessa nimi on Digi
+ - ja väestötietoviraston tietojen mukaan annettu vuoden 2021 loppuun menne
+ ssä 55 128 miehelle ja alle 17 naiselle.\n\nhttps://fi.wikipedia.org/wiki/
+ Henrik\n\nHenrikki on suomalainen miehen etunimi\, Henrik-nimen muunnelma.
+  Saman nimen muunnelmia ovat myös Henri ja Heikki. Henrikin nimipäivä on 1
+ 9. tammikuuta. Vuoden 2019 loppuun mennessä nimi Henrikki on annettu 10 28
+ 2 miehelle.\n\nhttps://fi.wikipedia.org/wiki/Henrikki\n\nNimipäivät © Hels
+ ingin yliopisto\n\nLisätietoja\nhttps://almanakka.helsinki.fi/fi/nimipaiva
+ t\n\nWikipedia content re-released under CC-BY-SA.\nhttps://creativecommon
+ s.org/licenses/by-sa/3.0/\n\nTämän kalenterin tarjoaa WebCal.Guru https://
+ www.webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTi
+ laustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5493844f-073e-c9fe-6ff2-b147c8e19ff5
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY;LANGUAGE=fi:Sebastian
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 3 301 ihmistä.\n- Sebastian: 3 301\n\nSeba
+ stian on alkujaan kreikkalais-latinalainen miehen etunimi. Nimi merkitsee 
+ Sebasten asukasta. Vanhalla ajalla Sebaste oli Vähässä-Aasiassa sijainnut 
+ kaupunki\, jonka nimi tuli ’kunnioitettavaa’ tarkoittavasta kreikan kielen
+  sanasta sebastos (σεβαστος) ja oli samalla käännös keisari Augustuksen ni
+ mestä. Nimen on tehnyt laajalti suosituksi varsinkin Pyhä Sebastianus\, kr
+ istillinen marttyyri\, jonka muistopäivä 20. tammikuuta on Suomessakin nyk
+ yään Sebastianin nimipäivä.\n\nhttps://fi.wikipedia.org/wiki/Sebastian\n\n
+ Nimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps://almanakka.helsink
+ i.fi/fi/nimipaivat\n\nWikipedia content re-released under CC-BY-SA.\nhttps
+ ://creativecommons.org/licenses/by-sa/3.0/\n\nTämän kalenterin tarjoaa Web
+ Cal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:
+ 03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:92de77e5-2371-85fa-948c-48e698850cb7
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY;LANGUAGE=fi:Aune\, Auni\, Netta\, Oona
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 15 092 ihmistä.\n- Aune: 5 045\n- Auni: 25
+ 7\n- Netta: 2 471\n- Oona: 7 319\n\nAune ja Auni ovat suomalaisia naisen e
+ tunimiä. Ne polveutuvat kansainvälisestä nimestä Agnes\, joka puolestaan o
+ n versio kreikan puhtautta ja siveyttä merkitsevästä nimestä Hagne. Lisäks
+ i Agnes liittyy latinan lammasta merkitsevään sanaan agnus.\n\nhttps://fi.
+ wikipedia.org/wiki/Aune\n\nAune ja Auni ovat suomalaisia naisen etunimiä. 
+ Ne polveutuvat kansainvälisestä nimestä Agnes\, joka puolestaan on versio 
+ kreikan puhtautta ja siveyttä merkitsevästä nimestä Hagne. Lisäksi Agnes l
+ iittyy latinan lammasta merkitsevään sanaan agnus.\n\nhttps://fi.wikipedia
+ .org/wiki/Auni\n\nNetta on Anetta-nimestä johdettu naisen etunimi. Nettaa 
+ käytetään myös Agnesin lempinimenä. Netan nimipäivä on ollut suomalaisessa
+  kalenterissa Aunen nimipäivänä\, 21. tammikuuta vuodesta 2005.\n\nhttps:/
+ /fi.wikipedia.org/wiki/Netta\n\nOona on alun perin irlantilainen naisen et
+ unimi\, joka pohjautuu muinaisirlantilaiseen nimeen Oonagh. Nimen on selit
+ etty johtuvan iirin kielen sanasta uan\, joka merkitsee karitsaa. Kelttilä
+ isessä mytologiassa Oonagh on keijukaisten kuningattaren nimi. Muoto Oona 
+ on käytössä harvinaisena englantilaisella kielialueella. Samaa alkuperää o
+ n ilmeisesti myös nimi Ona\, joka tosin voi pohjautua myös ona-päätteisiin
+  nimiin\, kuten Fionaan. Vanhastaan tunnettu oli yhdysvaltalainen näytteli
+ jä Oona Chaplin. Suomessa nimi oli vielä 1970-luvulla varsin harvinainen\,
+  mutta on myöhemmin voimakkaasti yleistynyt. Vuoden 2019 loppuun mennessä 
+ se on Suomessa annettu noin 8 070 naiselle ja alle 10 miehelle. Suomessa O
+ onan nimipäivä on 21. tammikuuta.\n\nhttps://fi.wikipedia.org/wiki/Oona\n\
+ nNimipäivät © Helsingin yliopisto\n\nLisätietoja\nhttps://almanakka.helsin
+ ki.fi/fi/nimipaivat\n\nWikipedia content re-released under CC-BY-SA.\nhttp
+ s://creativecommons.org/licenses/by-sa/3.0/\n\nTämän kalenterin tarjoaa We
+ bCal.Guru https://www.webcal.guru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16
+ :03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:847e2d54-6dec-bbfd-074a-d57e8a3bd26c
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY;LANGUAGE=fi:Visa
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 919 ihmistä.\n- Visa: 919\n\nVisa on suoma
+ lainen miehen etunimi. Nimi tulee visakoivusta\, jonka puuaine on lujaa ja
+  samalla kaunista\; täten nimen valinnalla on haluttu ilmaista lapselle to
+ ivottuja ominaisuuksia. Vuoden 2019 loppuun mennessä nimi Visa on Digi- ja
+  väestötietoviraston tietojen mukaan annettu 1 230 suomalaiselle miehelle 
+ ja muutamalle naiselle. Eniten sitä on annettu 1980- ja 1990-luvuilla.\n\n
+ https://fi.wikipedia.org/wiki/Visa_(nimi)\n\nNimipäivät © Helsingin yliopi
+ sto\n\nLisätietoja\nhttps://almanakka.helsinki.fi/fi/nimipaivat\n\nWikiped
+ ia content re-released under CC-BY-SA.\nhttps://creativecommons.org/licens
+ es/by-sa/3.0/\n\nTämän kalenterin tarjoaa WebCal.Guru https://www.webcal.g
+ uru/.\n\nSisältö luotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n
+ -
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5763b17d-5d70-677e-c12d-5c8d76f7fc13
+X-FUNAMBOL-ALLDAY:1
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY;LANGUAGE=fi:Eine\, Eini\, Enna\, Enni
+DESCRIPTION;LANGUAGE=fi:Tämän nimipäiväkalenterin mukaan ensimmäisen etuni
+ mensä nimipäivää viettää tänään 9 591 ihmistä.\n- Eine: 1 566\n- Eini: 1 4
+ 13\n- Enna: 1 238\n- Enni: 5 374\n\nEine on suomalainen naisen etunimi.\n\
+ nhttps://fi.wikipedia.org/wiki/Eine\n\nEini on suomalainen naisen etunimi.
+  Nimi on muunnelma nimestä Eine ja siten Eino-nimen naispuolinen vastine. 
+ Einin nimipäivä on ollut vuodesta 1950 lähtien 23. tammikuuta.\n\nhttps://
+ fi.wikipedia.org/wiki/Eini_(nimi)\n\nEnna on suomalainen naisen etunimi.\n
+ \nhttps://fi.wikipedia.org/wiki/Enna_(nimi)\n\nEnni on suomalainen naisen 
+ etunimi. Nimi on todennäköisimmin muunnelma nimestä Eine tai Eini\, mutta 
+ Virossa sitä on käytetty myös Henrika- tai Henriette-nimen puhuttelumuoton
+ a. Ennin nimipäivä on vuodesta 1950 lähtien 23. tammikuuta.\n\nhttps://fi.
+ wikipedia.org/wiki/Enni\n\nNimipäivät © Helsingin yliopisto\n\nLisätietoja
+ \nhttps://almanakka.helsinki.fi/fi/nimipaivat\n\nWikipedia content re-rele
+ ased under CC-BY-SA.\nhttps://creativecommons.org/licenses/by-sa/3.0/\n\nT
+ ämän kalenterin tarjoaa WebCal.Guru https://www.webcal.guru/.\n\nSisältö l
+ uotu\nWed\, 14 Jan 2026 16:03:55 +0000\n\nTilaustunnus\n-
+CLASS:PUBLIC
+CATEGORIES:NAME DAY,WEBCALGURU
+URL;VALUE=URI:https://almanakka.helsinki.fi/fi/nimipaivat
+CONTACT:guru@webcal.guru
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-APPLE-TRAVEL-ADVISORY-BEHAVIOR:DISABLED
+PRIORITY:5
+DTSTAMP:20260114T160355Z
+STATUS:CONFIRMED
+SEQUENCE:2571
+CREATED:20260114T160355Z
+LAST-MODIFIED:20260114T160355Z
+END:VEVENT
+LAST-MODIFIED:20260114T160355Z
+END:VCALENDAR

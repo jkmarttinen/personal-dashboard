@@ -1,0 +1,4 @@
+node_modules
+.env
+dashboard.html
+static_data.json

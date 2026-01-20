@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="style.css?v=8">
+    <link rel="icon" href="https://arijuki.net/wp-content/uploads/2021/01/cropped-arijuki-logo-32x32.png">
+</head>
+
+<body>
+    <div class="dashboard-grid">
+        <!-- Floating Actions -->
+        <div class="floating-actions">
+            <button id="theme-toggle" class="floating-btn" title="Vaihda teema">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="sun-icon">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <path
+                        d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42">
+                    </path>
+                </svg>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" class="moon-icon">
+                    <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"></path>
+                </svg>
+            </button>
+            <button id="fullscreen-btn" class="floating-btn" title="Koko ruutu">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <path d="M8 3H5a2 2 0 00-2 2v3m18 0V5a2 2 0 00-2-2h-3m0 18h3a2 2 0 002-2v-3M3 16v3a2 2 0 002 2h3">
+                    </path>
+                </svg>
+            </button>
+        </div>
+
+        <!-- Center Top Clock -->
+        <div class="top-center">
+            <div id="clock" class="clock-display">00:00</div>
+        </div>
+
+        <!-- Left Column: Weather -->
+        <div class="column left">
+            <div class="section-title">Lohja Ikkala</div>
+            <div class="weather-content" id="weather-container">
+                <div class="loading">
+                    <div class="spinner"></div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Right Column: Calendar -->
+        <div class="column right">
+            <div id="calendar-header" class="calendar-header">
+                <div id="month-name" class="month-name">Tammikuu 2026</div>
+            </div>
+            <div id="calendar-grid" class="calendar-grid">
+                <!-- Days will be injected here -->
+            </div>
+        </div>
+
+        <!-- Hidden Footer for status -->
+        <div class="status-bar">
+            <div id="last-updated" class="last-updated">--:--</div>
+            <button id="refresh-btn" class="refresh-btn">
+                <svg class="refresh-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M23 4v6h-6M1 20v-6h6M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15">
+                    </path>
+                </svg>
+            </button>
+        </div>
+    </div>
+    <script src="app.js?v=8"></script>
+</body>
+
+</html>

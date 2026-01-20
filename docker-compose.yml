@@ -1,0 +1,19 @@
+services:
+  personal-dashboard:
+    build: .
+    container_name: personal-dashboard
+    ports:
+      - "127.0.0.1:3100:3100"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      - /app/node_modules
+    networks:
+      - tyonohjaus-network
+    restart: unless-stopped
+
+networks:
+  tyonohjaus-network:
+    external: true
+    name: tyonohjaus_tyonohjaus-network
