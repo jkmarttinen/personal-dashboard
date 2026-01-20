@@ -152,20 +152,7 @@ async function fetchWeather() {
         const data = await response.json();
         const sensors = data.sensorValues;
 
-        const findSensorById = (id) => sensors.find(s => s.id === id);
 
-        const temp = findSensorById(1)?.value || '--'; // ILMA
-        const roadTemp = findSensorById(3)?.value || '--'; // TIE_1
-        const wind = findSensorById(16)?.value || '--'; // KESKITUULI
-        const humidity = findSensorById(21)?.value || '--'; // ILMAN_KOSTEUS
-        const conditionCode = findSensorById(52)?.value; // VALLITSEVA_SÄÄ based on typical Digitraffic IDs, verifying via grep next.
-        // Actually, let's stick to names for the ones that work and only switch the problem ones to IDs if needed, 
-        // OR better, use IDs for everything if we can confirm them.
-
-        // Let's use the explicit SAFE way: ID for the new ones, names for the old ones that worked? 
-        // No, mixed is bad. Let's use IDs for the new ones 213, 214, 215.
-
-        // Re-implementing with mixed approach to be safe with what we know works, but using IDs for the problem children.
         const findSensor = (name) => sensors.find(s => s.name === name);
         const findSensorById = (id) => sensors.find(s => s.id === id);
 
